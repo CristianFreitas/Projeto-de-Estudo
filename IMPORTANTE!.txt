@@ -1,0 +1,16 @@
+LINKS PARA EXERCICIOS DE JAVASCRIPT:
+
+https://github.com/gabrieldarezzo/helpjs-ravi
+
+https://www.youtube.com/watch?v=BiyG-du6vn8&index=14&list=PLXik_5Br-zO-h6HFz_aYmQmb0HshP135F
+
+https://www.caelum.com.br/apostila-html-css-javascript/javascript-e-interatividade-na-web/#11-5-operadores
+
+http://professoralucelia.com.br/progWeb/ListaDeExecicios01.pdf
+
+
+Download Visual code configurado:
+
+https://www.mediafire.com/file/q01sojtxx5v65s5/Microsoft%20VS%20Code.7z
+
+

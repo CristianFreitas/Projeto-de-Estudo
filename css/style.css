@@ -1,0 +1,157 @@
+
+@media screen and (min-width: 650px){
+  .image {
+    position: relative;    
+    margin-top: 100px;
+     
+  }
+
+  .image img{
+    border-radius: 100%;
+    width: 100%;
+  }
+
+    ul{
+        text-align: center;
+        width: 100%;
+    }
+
+    h2 { 
+        position: absolute;
+        top: 43%;
+        right: 57%;
+        width: 6%;
+     }
+     
+     h2 span { 
+        color: black; 
+        font-family: 'Raleway', sans-serif;
+        font-size: 1.2rem;
+        letter-spacing: -1px;
+        padding: 10px; 
+     }
+
+     h2 span:hover{
+        color: gray;
+     }
+          
+    .btn {
+      text-decoration: none;
+      position: relative;
+      top: 24px;
+      display: inline-block;
+      font-size: 20px;
+      line-height: 1.5em;
+      padding: .3em 1.8em .3em 1.8em;
+      border: 2px solid #fff;
+      cursor: pointer;
+      font-family: 'Raleway', sans-serif;
+      max-width: 100%;
+      text-align: center;
+      box-shadow: 1px 1px 1px #333333;
+      border-color: #333333;
+      background-color: rgba(148, 102, 61, 0.30);      
+      border-radius: 30px;
+      color: unset;
+      width: 13%;
+      
+  }
+          
+    .btn:hover {
+      background-color:transparent;
+      color: black;
+      
+   }
+
+   .container{
+    width: 100%;
+    padding: 20px;
+    max-width: 100%;
+    max-height: 100%;
+    min-height: 50%;
+    min-width: 50%;
+   }
+
+}
+
+   
+
+   
+   @media screen and (max-width: 650px)  {
+
+    ul{
+        text-align: center;
+        width: 100%;
+    }
+
+    h2 { 
+        position: absolute;
+        top: 40%;
+        right: 58%;
+        width: 6%;
+     }
+     
+     h2 span { 
+        color: black; 
+        font-family: 'Raleway', sans-serif;
+        font-size: 0.9rem;
+        letter-spacing: -1px;
+        padding: 10px; 
+     }
+
+
+    .image {
+        position: relative;    
+        margin-top: 100px;
+         
+      }
+    
+      .image img{
+        border-radius: 100%;
+        width: 100%;
+      }
+    
+
+
+    .btn {
+        
+         
+          text-decoration: none;
+          position: relative;
+          top: 24px;
+          display: inline-block;
+          font-size: 20px;
+          line-height: 1.5em;
+          padding: .3em 1.8em .3em 1.8em;
+          border: 2px solid #fff;
+          cursor: pointer;
+          font-family: 'Raleway', sans-serif;
+          max-width: 100%;
+          text-align: center;
+          box-shadow: 1px 1px 1px #333333;
+          border-color: #333333;
+          background-color: rgba(148, 102, 61, 0.30);      
+          border-radius: 30px;
+          color: unset;
+          width: 30%;
+          
+      }
+              
+        .btn:hover {
+          background-color:transparent;
+          color: black;
+          
+       }
+    
+       .container{
+        width: 100%;
+        padding: 20px;
+        max-width: 100%;
+        max-height: 100%;
+        min-height: 50%;
+        min-width: 50%;
+       }
+    
+    
+}
+
